@@ -1,0 +1,5 @@
+{
+    "CCPREFIX": "riscv64-unknown-elf-",
+    "CFLAGS": "-mcmodel=medany",
+    "QEMU": "qemu-system-riscv64 -machine virt -bios none"
+}

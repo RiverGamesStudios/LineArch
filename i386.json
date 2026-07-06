@@ -1,0 +1,5 @@
+{
+    "CCPREFIX": "i686-elf-",
+    "CFLAGS": "",
+    "QEMU": "qemu-system-i386"
+}

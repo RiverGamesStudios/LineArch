@@ -1,0 +1,5 @@
+{
+    "CCPREFIX": "x86_64-elf-",
+    "CFLAGS": "",
+    "QEMU": "qemu-system-x86_64"
+}
